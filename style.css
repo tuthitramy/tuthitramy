@@ -5,10 +5,16 @@ h1 {
   color: #6495ED;
   text-align: center;
 }
-h3{
+h3 {
   color: #228B22;
   text-align: center;
 }
-img{
-  img:
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+}
+#first{
+  text-align: center
+  
 }
