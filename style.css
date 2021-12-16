@@ -12,10 +12,11 @@ h3 {
 img {
   display: block;
   margin: auto;
-  width: 30%;
+  width: 20%;
   padding: 20px;
 }
 #first{
+  display:block;
   text-align: center;
 }
 
