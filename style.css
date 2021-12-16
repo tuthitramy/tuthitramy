@@ -12,16 +12,19 @@ h3 {
 img {
   display: block;
   margin: auto;
-  width: 40%;
+  width: 30%;
   padding: 20px;
 }
-#first {
+#first{
   text-align: center;
 }
 
-#third {
-  font-size:120%;
+ #third{
+  font-size: 120%;
 }
-.footer{
-  color:#8A2BE2;
+.footer {
+  color: #8A2BE2;
+}
+a {
+  color: #1E90FF;
 }
